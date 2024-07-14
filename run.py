@@ -13,4 +13,7 @@ def init_boards(size):
 
 
 if __name__ == "__main__":
-    
+    while True:
+        print("     \033[1m**ULTIMATE NAVAL WAR**\033    ")
+        input("\nPress any KEY to enter the game...")
+
